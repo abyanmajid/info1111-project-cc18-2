@@ -65,6 +65,6 @@ git commit -m "brief desc of your changes"
 git push -u origin main
 ```
 
-*NOTE: You may occassionally be denied from running the above commands due to problems such as version clashes, etc. Usually, git will tell you the problem and the commands you need to do to resolve it. *
+*NOTE: You may occassionally be denied from running the above commands due to problems such as version clashes, etc. Usually, git will tell you the problem and the commands you need to do to resolve it.*
 
 **You should run the commands as instructed by git. If you're stuck, report your issue to our Discord server.**
