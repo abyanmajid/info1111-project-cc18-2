@@ -26,8 +26,10 @@ This guide will use the ***Linux*** command line, so if you use Windows, make su
 
 5. Clone this github repository to your chosen directory
 
-
-<img src="https://github.com/abyanmajid/info1111-task1-cc18-2/assets/108279046/d4793d5b-5dc9-4d8f-a3a3-0c705c522878" width="650">
+```bash
+git clone https://github.com/abyanmajid/info1111-task1-cc18-2.git
+cd info1111-task1-cc18-2
+```
 
 Now you can make modifications to the `changes` directory. But before you edit anything, it is good practice to run
 ```bash
@@ -35,7 +37,7 @@ git pull
 ```
 This will make sure that you update the clone you have made in your local device with the latest version of this github repository. Meaning, you'd have retrieved the latest changes made by others, before you start working.
 
-*(NOTE: **`main.tex`** will be the main LaTeX file where we will be making our respective code changes to.)*
+*NOTE: **`main.tex`** will be the main LaTeX file where we will be making our respective code changes to.*
 
 ---
 
@@ -60,3 +62,7 @@ git commit -m "brief desc of your changes"
 ```bash
 git push -u origin main
 ```
+
+*NOTE: You may occassionally be denied from running the above commands due to problems such as version clashes, etc. Usually, git will tell you the problem and the commands you need to do to resolve it. *
+
+**You should run the commands as instructed by git. If you're stuck, report your issue to our Discord server.**
