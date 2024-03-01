@@ -4,6 +4,8 @@ Make sure you have installed [git bash](https://git-scm.com/downloads)
 
 This guide will use the ***Linux*** command line, so if you use Windows, make sure to install [Windows Subsystem for Linux (WSL)](https://apps.microsoft.com/detail/9p9tqf7mrm4r?hl=en-au&gl=AU) and [Ubuntu](https://apps.microsoft.com/detail/9pdxgncfsczv?hl=en-au&gl=AU)
 
+***NOTE:** If you are having problems, report and take pictures of the issue to our discord server.*
+
 ## Setup
 
 1. Click on `Code` and then copy the HTTPS URL of the repository.
