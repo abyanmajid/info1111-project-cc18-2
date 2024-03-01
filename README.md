@@ -20,17 +20,43 @@ This guide will use the ***Linux*** command line, so if you use Windows, make su
 
 4. Navigate to your choice of directory (run `cd` and `ls` where necessary). See below for example.
 
-<img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/7d332d14-cef1-480c-b195-b9c23c246bd5" width="300">
+<img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/7d332d14-cef1-480c-b195-b9c23c246bd5" width="400">
 
 ---
 
 5. Clone this github repository to your chosen directory
 
-<img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/bbaf088a-4b8d-4c80-a81b-7bca3f27fbb5" width="700">
 
+<img src="https://github.com/abyanmajid/info1111-task1-cc18-2/assets/108279046/d4793d5b-5dc9-4d8f-a3a3-0c705c522878" width="650">
 
-## Making changes
+Now you can make modifications to the `changes` directory. But before you edit anything, it is good practice to run
+```bash
+git pull
+```
+This will make sure that you update the clone you have made in your local device with the latest version of this github repository. Meaning, you'd have retrieved the latest changes made by others, before you start working.
 
+*(NOTE: **`main.tex`** will be the main LaTeX file where we will be making our respective code changes to.)*
 
+---
 
-## Making changes via GUI
+## Updating this repository with the changes you made
+
+Make sure you are in the right directory, i.e. if you run `ls`, you should see `changes`, `stable` and `README.md`
+
+1. Run the following to tell git to keep track of all of the changes you have made so far in the current directory.
+
+```bash
+git add .
+```
+
+2. Run the following to save the changes you have made so far.
+
+```bash
+git commit -m "brief desc of your changes"
+```
+
+4. Run the following to push your changes to this repository (thereby replacing the current version with a new version containing your modifications).
+
+```bash
+git push -u origin main
+```
