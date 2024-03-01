@@ -20,7 +20,7 @@ This guide will use the ***Linux*** command line, so if you use Windows, make su
 
 4. Navigate to your choice of directory (run `cd` and `ls` where necessary). See below for example.
 
-<img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/4294ac2b-1ede-440b-8d40-cf5dd2754bcf" width="500">
+<img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/7d332d14-cef1-480c-b195-b9c23c246bd5" width="300">
 
 ---
 
