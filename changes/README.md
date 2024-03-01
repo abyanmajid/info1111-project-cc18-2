@@ -1,4 +1,4 @@
 # Changes
 
 
-Only make modifications to the texfile in this directory.
+Only make modifications to the `main.tex` in this directory.
