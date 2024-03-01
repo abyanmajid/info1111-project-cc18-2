@@ -39,7 +39,7 @@ git pull
 ```
 This will make sure that you update the clone you have made in your local device with the latest version of this github repository. Meaning, you'd have retrieved the latest changes made by others, before you start working.
 
-*NOTE: **`main.tex`** will be the main LaTeX file where we will be making our respective code changes to.*
+*NOTE: **`changes/main.tex`** will be the main LaTeX file where we will be making our respective code changes to.*
 
 ---
 
