@@ -45,7 +45,7 @@ This will make sure that you update the clone you have made in your local device
 
 ## Making changes
 
-If you use Overleaf, you can simply copy paste whatever you've made in Overleaf to `changes/main.tex`
+If you use Overleaf, you can simply copy paste the LaTeX you have written in Overleaf to `changes/main.tex`
 
 
 ## Updating this repository with the changes you made
