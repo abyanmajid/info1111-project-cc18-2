@@ -43,6 +43,11 @@ This will make sure that you update the clone you have made in your local device
 
 ---
 
+## Making changes
+
+If you use Overleaf, you can simply copy paste whatever you've made in Overleaf to `changes/main.tex`
+
+
 ## Updating this repository with the changes you made
 
 Make sure you are in the right directory, i.e. if you run `ls`, you should see `changes`, `stable` and `README.md`
