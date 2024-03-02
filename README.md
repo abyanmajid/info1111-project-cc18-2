@@ -8,6 +8,26 @@ This guide will use the ***Linux*** command line, so if you use Windows, make su
 
 ## Setup
 
+1. Create a personal token [here](https://github.com/settings/tokens)
+   
+<img src="https://github.com/abyanmajid/info1111-task1-cc18-2/assets/108279046/c1268863-9a2a-4047-99b7-4fa7785142f5" width="500"> 
+
+2. Set expiration to `No expiration` and tick every scope.
+
+3. Setup `gh` authentication on your local device by running the following
+
+```
+sudo apt install gh
+gh auth setup-git
+gh auth login
+```
+
+When asked:
+- What account do you want to log into? ANSWER: ***GitHub.com***
+- What is your preferred protocol for Git operations? ANSWER: ***HTTPS***
+
+You'll then be asked to paste the personal token you have previously created.
+
 1. Click on `Code` and then copy the HTTPS URL of the repository.
 
 <img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/608dccda-721b-495d-a838-e2a3c4f4ba8a" width="300"> 
