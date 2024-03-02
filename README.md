@@ -12,9 +12,13 @@ This guide will use the ***Linux*** command line, so if you use Windows, make su
    
 <img src="https://github.com/abyanmajid/info1111-task1-cc18-2/assets/108279046/c1268863-9a2a-4047-99b7-4fa7785142f5" width="500"> 
 
+---
+
 2. Set expiration to `No expiration` and tick every scope.
 
-3. Setup `gh` authentication on your local device by running the following
+---
+
+4. Setup `gh` authentication on your local device by running the following
 
 ```
 sudo apt install gh
@@ -28,25 +32,27 @@ When asked:
 
 You'll then be asked to paste the personal token you have previously created.
 
-1. Click on `Code` and then copy the HTTPS URL of the repository.
+---
+
+5. Click on `Code` and then copy the HTTPS URL of the repository.
 
 <img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/608dccda-721b-495d-a838-e2a3c4f4ba8a" width="300"> 
 
 ---
 
-2. Open a Linux terminal/command line
+6. Open a Linux terminal/command line
 
 <img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/b79f655f-fa56-49cc-9b91-2594cca418ad" width="400">
 
 ---
 
-4. Navigate to your choice of directory (run `cd` and `ls` where necessary). See below for example.
+7. Navigate to your choice of directory (run `cd` and `ls` where necessary). See below for example.
 
 <img src="https://github.com/abyanmajid/info1111-project-cc18-2/assets/108279046/7d332d14-cef1-480c-b195-b9c23c246bd5" width="400">
 
 ---
 
-5. Clone this github repository to your chosen directory
+8. Clone this github repository to your chosen directory
 
 ```bash
 git clone https://github.com/abyanmajid/info1111-task1-cc18-2.git
